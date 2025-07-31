@@ -6,7 +6,7 @@ This repository contains my evolving summaries of key AR/VR concepts as I study 
 
 | Concept                     | Summary File                                     | Notes                                                        |
 |----------------------------|--------------------------------------------------|--------------------------------------------------------------|
-| Presence in VR             | [concepts/presence.md](concepts/presence.md)     | Technical + perceptual foundations of immersion              |
+| Presence in VR             | [concepts/presence.md](concepts/Presence.md)     | Technical + perceptual foundations of immersion              |
 | User-Centered Design       | [concepts/user_centered_design.md](concepts/user_centered_design.md) | (Coming soon) HCI principles for XR                          |
 | Spatial UI & Affordances   | [concepts/spatial_ui.md](concepts/spatial_ui.md) | (Planned) 3D interaction design and intuitive object use     |
 | Comfort & Motion Sickness  | [concepts/comfort_design.md](concepts/comfort_design.md) | (Planned) Designing for well-being and avoiding nausea       |
