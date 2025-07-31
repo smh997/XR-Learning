@@ -27,7 +27,7 @@ Presence is a key indicator of a successful immersive experience. It enhances us
 - Keep the user’s control intuitive and responsive to strengthen presence.
 - Be aware of **breaks in presence**, such as UI interruptions, freezing, or drift.
 
-## 📄 Supporting Research (Referenced, Not Stored)
+## 📄 Supporting Research
 | Title                                                                                     | Source                                                                                  | Notes                                          |
 |-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|------------------------------------------------|
 | Factors Affecting Sense of Presence in a Virtual Reality Social Environment               | [ResearchGate](https://www.researchgate.net/publication/331335083_...)                 | Covers realism, user control, and sickness     |
