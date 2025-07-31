@@ -1,14 +1,24 @@
-# XR-Learning
-Summary of the concepts I learn about XR.
+# 🧠 AR/VR Concept Summaries
 
-## 📚 AR/VR Concept Summaries
+This repository contains my evolving summaries of key AR/VR concepts as I study immersive technologies, user-centered design, and simulation systems. Each `.md` file is a standalone learning artifact with definitions, implications, and personal reflections.
 
-| Concept                     | File                          | Notes                                        |
-|----------------------------|-------------------------------|----------------------------------------------|
-| Presence in VR             | [presence.md](presence.md)     | Covers perceptual and technical factors for immersion |
-| User-Centered Design       | [user_centered_design.md](user_centered_design.md) | (Upcoming) Key HCI principles for XR design |
-| Spatial UI & Affordances   | [spatial_ui.md](spatial_ui.md) | (Upcoming) How users perceive and interact in 3D space |
-| Motion Sickness & Comfort  | [comfort_design.md](comfort_design.md) | (Planned) Avoiding nausea and fatigue in VR |
-| Simulation in VR           | [simulation.md](simulation.md) | (Planned) Principles of immersive modeling and feedback |
-| Authoring Tools for XR     | [authoring_tools.md](authoring_tools.md) | (Planned) Building flexible, low-code systems |
+## 📚 Concept Index
+
+| Concept                     | Summary File                                     | Notes                                                        |
+|----------------------------|--------------------------------------------------|--------------------------------------------------------------|
+| Presence in VR             | [concepts/presence.md](concepts/presence.md)     | Technical + perceptual foundations of immersion              |
+| User-Centered Design       | [concepts/user_centered_design.md](concepts/user_centered_design.md) | (Coming soon) HCI principles for XR                          |
+| Spatial UI & Affordances   | [concepts/spatial_ui.md](concepts/spatial_ui.md) | (Planned) 3D interaction design and intuitive object use     |
+| Comfort & Motion Sickness  | [concepts/comfort_design.md](concepts/comfort_design.md) | (Planned) Designing for well-being and avoiding nausea       |
+| Simulation in VR           | [concepts/simulation.md](concepts/simulation.md) | (Planned) Immersive systems for modeling and feedback loops  |
+| Authoring Tools for XR     | [concepts/authoring_tools.md](concepts/authoring_tools.md) | (Planned) Building and customizing XR environments           |
+
+---
+
+✅ Each file includes:
+- Concept definition  
+- Relevance to VR/AR  
+- Design takeaways  
+- Supporting research  
+- My personal reflections
 
