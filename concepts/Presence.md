@@ -24,7 +24,7 @@ Presence is a key indicator of a successful immersive experience. It enhances us
 - Use **high-refresh headsets** and optimize render loops to minimize latency.
 - Ensure **accurate positional and rotational tracking** of the headset and controllers.
 - Avoid inconsistent sensory input (e.g., mismatch between audio and visuals).
-- Keep the user’s control intuitive and responsive to strengthen presence.
+- Keep the user's control intuitive and responsive to strengthen presence.
 - Be aware of **breaks in presence**, such as UI interruptions, freezing, or drift.
 
 ## 📄 Supporting Research
