@@ -9,6 +9,7 @@ This repository contains my evolving summaries of key AR/VR concepts as I study 
 | Presence in VR             | [Concepts/Presence](Concepts/Presence.md)     | Technical + perceptual foundations of immersion             |
 | User-Centered Design       | [Concepts/UserCenteredDesign](Concepts/UserCenteredDesign.md) | HCI principles for XR                          |
 | Spatial UI & Affordances   | [Concepts/SpatialUi](Concepts/SpatialUi.md) | 3D interaction design and intuitive object use     |
+| XR Interaction Models       | [Concepts/XRInteractionModels](Concepts/XRInteractionModels.md) | How users interact with virtual content via gaze, gesture, etc. |
 | Comfort & Motion Sickness  | (Coming soon) | Designing for well-being and avoiding nausea       |
 | Simulation in VR           | (Coming soon) | Immersive systems for modeling and feedback loops  |
 | Authoring Tools for XR     | (Coming soon) | Building and customizing XR environments           | 
